@@ -1,0 +1,203 @@
+Drug Name,ADR Category,ADR Symptom,Severity (if mentioned),Source
+Paracetamol,Gastrointestinal,Nausea,Common (10% or more),Drugs.com
+Paracetamol,Gastrointestinal,Vomiting,Very common,Drugs.com
+Paracetamol,Gastrointestinal,Abdominal pain,Common (1–10%),Drugs.com
+Paracetamol,Gastrointestinal,Diarrhea,Common (1–10%),Drugs.com
+Paracetamol,Gastrointestinal,Constipation,Common (1–10%),Drugs.com
+Paracetamol,Gastrointestinal,Dyspepsia,Common (1–10%),Drugs.com
+Paracetamol,Gastrointestinal,Dry mouth,Frequency not reported,Drugs.com
+Paracetamol,Hypersensitivity,Anaphylaxis,Postmarketing reports,Drugs.com
+Paracetamol,Hematologic,Anemia,Common (1–10%),Drugs.com
+Paracetamol,Hematologic,Postoperative hemorrhage,Common (1–10%),Drugs.com
+Paracetamol,Hematologic,Thrombocytopenia,Very rare (<0.01%),Drugs.com
+Paracetamol,Hematologic,Leukopenia,Very rare (<0.01%),Drugs.com
+Paracetamol,Dermatologic,Rash,Common (1–10%),Drugs.com
+Paracetamol,Dermatologic,Pruritus (itching),Common (1–10%),Drugs.com
+Paracetamol,Dermatologic,Stevens-Johnson syndrome,Rare (<0.1%),Drugs.com
+Paracetamol,Dermatologic,Toxic epidermal necrolysis,Rare (<0.1%),Drugs.com
+Paracetamol,Dermatologic,Pustular rash (pemphigoid reaction),Very rare (<0.01%),Drugs.com
+Paracetamol,Respiratory,Dyspnea,Common (1–10%),Drugs.com
+Paracetamol,Respiratory,Hypoxia,Common (1–10%),Drugs.com
+Paracetamol,Respiratory,Wheezing,Common (1–10%),Drugs.com
+Paracetamol,Respiratory,Cough,Common (1–10%),Drugs.com
+Paracetamol,Respiratory,Pulmonary edema / Abnormal breath sounds / Stridor,Common (1–10%),Drugs.com
+Paracetamol,Cardiovascular,Peripheral edema,Common (1–10%),Drugs.com
+Paracetamol,Cardiovascular,Hypertension,Common (1–10%),Drugs.com
+Paracetamol,Cardiovascular,Hypotension,Common (1–10%),Drugs.com
+Paracetamol,Cardiovascular,Tachycardia,Common (1–10%),Drugs.com
+Paracetamol,Cardiovascular,Chest pain,Common (1–10%),Drugs.com
+Paracetamol,Metabolic,Hypokalemia,Common (1–10%),Drugs.com
+Paracetamol,Metabolic,Hyperglycemia,Common (1–10%),Drugs.com
+Paracetamol,Nervous system,Headache,Common (1–10%),Drugs.com
+Paracetamol,Nervous system,Dizziness,Common (1–10%),Drugs.com
+Paracetamol,Nervous system,Dystonia,Frequency not reported,Drugs.com
+Paracetamol,Musculoskeletal,Muscle spasms,Common (1–10%),Drugs.com
+Paracetamol,Musculoskeletal,Trismus,Common (1–10%),Drugs.com
+Paracetamol,Psychiatric,Insomnia,Common (1–10%),Drugs.com
+Paracetamol,Psychiatric,Anxiety,Common (1–10%),Drugs.com
+Paracetamol,Genitourinary,Oliguria,Common (1–10%),Drugs.com
+Paracetamol,Local,Infusion site pain,Common (1–10%),Drugs.com
+Paracetamol,Local,Injection site reactions,Common (1–10%),Drugs.com
+Paracetamol,Ocular,Periorbital edema,Common (1–10%),Drugs.com
+Paracetamol,Other,Pyrexia (fever),Common (1–10%),Drugs.com
+Paracetamol,Other,Fatigue,Common (1–10%),Drugs.com
+Paracetamol,Other,Malaise,Rare (0.01–0.1%),Drugs.com
+Ibuprofen,More common,Abdominal pain,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Acid or sour stomach,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Belching,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Bloating,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Cloudy urine,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Decrease in amount of urine,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Diarrhea,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Nausea,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Vomiting,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Rash,More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,"Swelling (face, fingers, hands, feet)",More common,Drugs.com (Drugs.com)
+Ibuprofen,More common,Shortness of breath,More common,Drugs.com (Drugs.com)
+Ibuprofen,Less common,Abdominal cramps,Less common,Drugs.com (Drugs.com)
+Ibuprofen,Rare,"Blistering, peeling, loosening of skin",Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Blood in urine or stools,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Blurry vision,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Confusion,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Dizziness,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Headache,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Hair loss/thinning of hair,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Irregular heartbeat,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Irritability,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Itching,Rare,Drugs.com (Drugs.com)
+Ibuprofen,Rare,Joint or muscle pain,Rare,Drugs.com (Drugs.com)
+Amoxicillin,Gastrointestinal,Nausea,Common (up to 1 in 10),NHS
+Amoxicillin,Gastrointestinal,Vomiting,Common,Apollo Hospitals (Apollo Hospitals)
+Amoxicillin,Gastrointestinal,Diarrhea,Common,NHS
+Amoxicillin,Gastrointestinal,Abdominal pain,Common,Apollo Hospitals (Apollo Hospitals)
+Amoxicillin,General / Neurological,Headache,–,Apollo Hospitals (Apollo Hospitals)
+Amoxicillin,General / Neurological,Dizziness,–,Healthline (Healthline)
+Amoxicillin,General / Neurological,Confusion,Rare,Wikipedia (Wikipedia)
+Amoxicillin,General / Neurological,Seizures,Rare,Apollo Hospitals (Apollo Hospitals)
+Amoxicillin,Dermatologic,Skin rash,Common,NHS
+Amoxicillin,Dermatologic,Hives / Itching,Serious allergic reaction,MedlinePlus (MedlinePlus)
+Amoxicillin,Dermatologic,"Blisters, peeling of skin",Serious,MedlinePlus (MedlinePlus)
+Amoxicillin,Respiratory / Allergic,"Wheezing, breathing difficulty",Serious allergic reaction (anaphylaxis),MedlinePlus (MedlinePlus)
+Amoxicillin,Neurologic / Psychiatric,"Mental/behavioral changes (e.g., anxiety, agitation)",Rare,Wikipedia (Wikipedia)
+Amoxicillin,Hepatobiliary / General,"Severe diarrhea with blood or mucus, yellowing of skin or eyes (possible liver issue)",Rare,NHS (healthwords.ai)
+Metformin,Gastrointestinal,Diarrhea,Very Common (≈53.2%),Drugs.com (Drugs.com)
+Metformin,Gastrointestinal,Nausea/vomiting,Very Common (≈25.5%),Drugs.com (Drugs.com)
+Metformin,Gastrointestinal,Flatulence,Very Common (≈12.1%),Drugs.com (Drugs.com)
+Metformin,Gastrointestinal,"Indigestion, Dyspepsia, Loss of appetite, Abdominal discomfort",Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Metabolic,Hypoglycemia,Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Metabolic,Lactic acidosis,Very Rare (<0.01%),Drugs.com (Drugs.com)
+Metformin,Hematologic,Subnormal vitamin B12 levels,Very Rare (<0.01%),Drugs.com (Drugs.com)
+Metformin,Other – General,"Asthenia, Chills, Flu syndrome, Accidental injury",Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Hepatic,"Liver function abnormalities, Hepatitis",Very Rare (<0.01%),Drugs.com (Drugs.com)
+Metformin,Cardiovascular,"Chest discomfort, Flushing, Palpitations",Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Dermatologic,"Rash, Nail disorder, Increased sweating",Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Dermatologic,"Erythema, Pruritus, Urticaria",Very Rare (<0.01%),Drugs.com (Drugs.com)
+Metformin,Immunologic,Infection,Very Common (≈20.5%),Drugs.com (Drugs.com)
+Metformin,Musculoskeletal,Myalgia,Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Nervous system,"Lightheadedness, Taste disturbances",Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Psychiatric,Headache,Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Respiratory,Rhinitis,Common (1–10%),Drugs.com (Drugs.com)
+Metformin,Critical Conditions,"Lactic acidosis symptoms: malaise, myalgia, respiratory distress, somnolence, abdominal distress",Very Rare,Drugs.com (Drugs.com)
+Metformin,Additional Insights,"Diarrhea, nausea, indigestion, metallic taste, loss of appetite, headaches, fatigue, common cold symptoms",Common,WebMD (WebMD)
+Metformin,Mayo Clinic – Common,"Abdominal discomfort, diarrhea, nausea, weight loss, metallic taste",—,Mayo Clinic (Mayo Clinic)
+Metformin,Mayo Clinic – Less Common,"Anxiety, blurred vision, confusion, seizures, etc.",—,Mayo Clinic (Mayo Clinic)
+Metformin,Mayo Clinic – Rare,"Behavior similar to being drunk, drowsiness, restless sleep",—,Mayo Clinic (Mayo Clinic)
+Omeprazole,Central nervous system,Headache,Common (≈7%),Wikipedia (Wikipedia)
+Omeprazole,Central nervous system,Dizziness,Common (≈2%),Wikipedia (Wikipedia)
+Omeprazole,Respiratory,Upper respiratory tract infection,Common (≈2%),Wikipedia (Wikipedia)
+Omeprazole,Respiratory,Cough,Common (≈1%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Abdominal pain,Common (≈5%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Diarrhea,Common (≈4%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Nausea,Common (≈4%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Vomiting,Common (≈3%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Flatulence,Common (≈3%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Acid regurgitation,Common (≈2%),Wikipedia (Wikipedia)
+Omeprazole,Gastrointestinal,Constipation,Common (≈2%),Wikipedia (Wikipedia)
+Omeprazole,Neuromuscular/Skeletal,Back pain,Common (≈1%),Wikipedia (Wikipedia)
+Omeprazole,Neuromuscular/Skeletal,Weakness,Common (≈1%),Wikipedia (Wikipedia)
+Omeprazole,Dermatologic,Rash,Common (≈2%),Wikipedia (Wikipedia)
+Omeprazole,General,"Infection (e.g., C. difficile)",Serious,WebMD (WebMD)
+Omeprazole,Renal,Acute interstitial nephritis,Rare/serious,Wikipedia (Wikipedia)
+Omeprazole,Metabolic,Hypomagnesemia,"Serious, long-term use",Wikipedia (Wikipedia)
+Omeprazole,Bone health,Increased fracture risk,"Serious, long-term use",Wikipedia (Wikipedia)
+Omeprazole,Serious,Vitamin B12 deficiency,"Serious, long-term use",NHS
+Omeprazole,Serious,Subacute cutaneous lupus erythematosus,Rare/serious,NHS
+Omeprazole,Serious,"Liver problems (jaundice, dark urine)",Rare/serious,NHS
+Aspirin,Gastrointestinal,Upset stomach / heartburn / nausea / vomiting / stomach pain,Common,MedlinePlus (MedlinePlus)
+Aspirin,Gastrointestinal,Stomach ulcers / gastrointestinal bleeding,Serious / Rare,Wikipedia (Wikipedia)
+Aspirin,Gastrointestinal,Bloody or tarry stools; vomiting blood; coffee-ground vomit,Serious,Drugs.com (Drugs.com)
+Aspirin,Allergic / Hypersensitivity,"Hives, rash, swelling (face/lips/tongue/throat), wheezing, difficulty breathing, anaphylaxis",Serious / Rare,MedlinePlus (MedlinePlus)
+Aspirin,Central Nervous System,Ringing in the ears (tinnitus); hearing loss; confusion; seizures; drowsiness,Mixed severity,Drugs.com (Drugs.com)
+Aspirin,Neurological / Pediatric,Reye syndrome (in children with viral illnesses),Serious / Rare,Drugs.com (Drugs.com)
+Aspirin,Hepatic / Renal Signs,"Dark urine, jaundice, light-colored stools, loss of appetite, liver problems",Serious,Drugs.com (Drugs.com)
+Aspirin,Renal / Cardiovascular,"Decreased urination; kidney issues; bleeding disorders (easy bruising, unusual bleeding)",Serious,NHS (nhs.uk)
+Aspirin,Cardiovascular / Others,"Swelling of hands/feet, high uric acid-related joint pain",Serious,NHS (nhs.uk)
+Aspirin,Respiratory / Allergic,Asthma exacerbation (NSAID-exacerbated respiratory disease),Serious / Rare,StatPearls / NCBI (NCBI)
+Cetirizine,Nervous system,Sleepiness / drowsiness,Common (more than 1 in 10),NHS (nhs.uk)
+Cetirizine,Nervous system,Headache,Common (1 in 100),NHS (nhs.uk)
+Cetirizine,Central nervous system,Fatigue,Common,Wikipedia (Wikipedia)
+Cetirizine,Gastrointestinal,Dry mouth,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Gastrointestinal,Nausea,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Gastrointestinal,Diarrhea,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Gastrointestinal,Vomiting,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Nervous system,Dizziness / feeling light-headed,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Respiratory,Cough,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,Respiratory,Sore throat,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,General / Other,Sweating / feeling hot,Common (1–10%),Drugs.com (Drugs.com)
+Cetirizine,General / Other,Strength loss / weakness,Less common,Drugs.com (Drugs.com)
+Cetirizine,Rare / Serious,Pruritus after discontinuation,Rare (FDA warning),Wikipedia (Wikipedia)
+Cetirizine,Rare / Serious,Rapid or irregular heartbeat; difficulty urinating,Rare,Verywell Health (Verywell Health)
+Cetirizine,Allergic reaction,"Rash, hives, difficulty breathing, swelling of face/lips/tongue/throat",Serious / Rare,Drugs.com (ophthalmic) (Drugs.com)
+Cetirizine,Rare / Serious,"Convulsions, hallucinations",Rare (overdose),Drugs.com (Drugs.com)
+Atorvastatin,Gastrointestinal,Nausea,Common (more than 1 in 100),NHS
+Atorvastatin,Gastrointestinal,Indigestion,Common,NHS
+Atorvastatin,Gastrointestinal,Diarrhoea,Common,NHS
+Atorvastatin,Gastrointestinal,Flatulence,Common,NHS
+Atorvastatin,Nervous system,Headache,Common,Mayo Clinic (Mayo Clinic)
+Atorvastatin,Nervous system,Insomnia,Common (1–10%),Drugs.com (Drugs.com)
+Atorvastatin,Nervous system,Hemorrhagic stroke,Common (1–10%),Drugs.com (Drugs.com)
+Atorvastatin,Nervous system,"Paresthesia, tinnitus",Uncommon (0.1–1%),Drugs.com (Drugs.com)
+Atorvastatin,Nervous system,Peripheral neuropathy,Rare (0.01–0.1%),Drugs.com (Drugs.com)
+Atorvastatin,Ocular,Blurred vision,Uncommon (0.1–1%),Drugs.com (Drugs.com)
+Atorvastatin,Ocular,Visual disturbance,Rare (0.01–0.1%),Drugs.com (Drugs.com)
+Atorvastatin,Psychiatric,Nightmare,Uncommon (0.1–1%),Drugs.com (Drugs.com)
+Atorvastatin,Psychiatric,Depression (postmarketing reports),Postmarketing,Drugs.com (Drugs.com)
+Atorvastatin,General / Fatigue,"Asthenia, malaise, fatigue",Uncommon (0.1–1%),Drugs.com (Drugs.com)
+Atorvastatin,Cardiovascular / Other,"Peripheral edema, chest pain, fatigue, weight gain",Postmarketing,Drugs.com (Drugs.com)
+Atorvastatin,Renal,Acute kidney injury (secondary to rhabdomyolysis),Not reported / serious,Drugs.com (Drugs.com)
+Atorvastatin,Muscle / Serious,"Myopathy, rhabdomyolysis with kidney damage",Serious / Rare,"Mayo Clinic (Mayo Clinic, WebMD)"
+Atorvastatin,Hepatic / Serious,"Liver damage (jaundice, elevated enzymes)",Rare / Serious,"Drugs.com (Drugs.com, Mayo Clinic, Medicover Hospitals)"
+Atorvastatin,Metabolic,Increased blood sugar / type 2 diabetes risk,Rare / Uncommon,"Mayo Clinic (Mayo Clinic, cabinethealth.com)"
+Atorvastatin,Immunologic / Allergic,"Rash, itching, swelling, difficulty breathing (SJS)",Serious / Rare,WebMD (WebMD)
+Salbutamol,Nervous system,Feeling shaky / tremor / fine tremor,Common (more than 1 in 100),"NHS (nhs.uk, Wikipedia)"
+Salbutamol,Cardiovascular,Faster heartbeat / tachycardia / palpitations,Common (more than 1 in 100),"NHS (nhs.uk, Wikipedia)"
+Salbutamol,Nervous system / General,Headache,Common (more than 1 in 100),"NHS (nhs.uk, Wikipedia)"
+Salbutamol,General / Muscle,Muscle cramps or cramps,Common (more than 1 in 100),NHS (nhs.uk)
+Salbutamol,Cardiovascular,Irregular or more noticeable heartbeat,Rare / Serious (sign of hypokalemia),NHS (nhs.uk)
+Salbutamol,Nervous system,Dizziness / feeling lightheaded,Rare / Serious,NHS (nhs.uk)
+Salbutamol,Respiratory / Serious,Worsening breathlessness or chest pain,Serious / Emergency,NHS (nhs.uk)
+Salbutamol,Allergic / Immune,Lip/mouth/throat swelling; rash; wheezing; collapse,Serious / Rare,NHS (nhs.uk)
+Salbutamol,Cardiovascular / Metabolic,Hypokalemia (low potassium levels),Rare / Serious,"Drugs.com (Drugs.com, Wikipedia)"
+Salbutamol,Nervous system / Psychiatric,"Anxiety, insomnia, restlessness",Common / often reported,Wikipedia (Wikipedia)
+Salbutamol,General / Metabolic,"Hypoglycemia (neonatal, preterm risk)",Rare / pediatric concern,StatPearls (NCBI)
+Salbutamol,Respiratory,Paradoxical bronchospasm,Rare / Serious,Wikipedia (Wikipedia)
+Salbutamol,Cardiovascular / Serious,"Myocardial ischemia, arrhythmia, flushing",Very rare / Severe,Wikipedia (Wikipedia)
+Diclofenac,Gastrointestinal,Acid or sour stomach,More common,"Drugs.com / Mayo Clinic (Drugs.com, Mayo Clinic) – (Drugs.com)"
+Diclofenac,Gastrointestinal,Indigestion / heartburn,More common,Drugs.com (Drugs.com) – NHS (nhs.uk)
+Diclofenac,Gastrointestinal,Nausea / vomiting,More common,"Drugs.com / Mayo Clinic (Drugs.com, Mayo Clinic) – Medical News Today (Medical News Today)"
+Diclofenac,Gastrointestinal,Diarrhea / constipation / flatulence,More common,Medical News Today (Medical News Today) – Drugs.com (Drugs.com)
+Diclofenac,Gastrointestinal,"Stomach pain, bloating, cramps",More common,NHS (nhs.uk) – Mayo Clinic (Mayo Clinic)
+Diclofenac,Renal / Urinary,Burning or painful urination; decreased urine output,More common / serious,Drugs.com (Drugs.com) – Mayo Clinic (Mayo Clinic)
+Diclofenac,Renal / Urinary,"Dark, cloudy urine; pale skin, clay-colored stools",More common / serious,Mayo Clinic (Mayo Clinic)
+Diclofenac,Cardiovascular,"Increased bleeding time; cardiovascular events (heart attack, stroke)",Serious / Rare,"Drugs.com / Wikipedia (Drugs.com, Wikipedia)"
+Diclofenac,Nervous system,"Headache, dizziness, drowsiness",More common,"Drugs.com / Mayo Clinic (Drugs.com, Mayo Clinic)"
+Diclofenac,Dermatologic,"Itching, rash, pinpoint red spots",More common,"Drugs.com / Mayo Clinic (Drugs.com, Mayo Clinic)"
+Diclofenac,General / Systemic,"Fever, chills, loss of appetite, unusual tiredness or weakness",More common,"Drugs.com / Mayo Clinic (Drugs.com, Mayo Clinic)"
+Diclofenac,Respiratory / Oral,"Cough, sore throat, mouth ulcers or inflammation",More common,Drugs.com (Drugs.com)
+Diclofenac,Visual / Sensory,Blurred vision / tinnitus (ringing in ears),Less common / mild,"Drugs.com (Medical News Today, Drugs.com)"
+Diclofenac,Serious / Gastrointestinal,Bloody or tarry stools; vomiting blood (“coffee grounds”),Serious / Rare,"Mayo Clinic / MedlinePlus (Mayo Clinic, MedlinePlus)"
+Diclofenac,Serious / Liver,"Yellowing skin or eyes, dark urine (jaundice)",Serious / Rare,Drugs.com topical / transdermal (Drugs.com)
+Diclofenac,Serious / Kidney,"Swelling, heart failure signs, kidney injury",Serious / Rare,"Drugs.com topical / Alberta (Drugs.com, MyHealth Alberta)"
+Diclofenac,Serious / Allergic,"Hives, rash, swelling (face, tongue, throat), trouble breathing",Serious / Rare,Drugs.com topical / injection (Drugs.com)
+Diclofenac,Serious / Blood,"Bleeding gums, bruising, easy bleeding",More common / serious,Drugs.com (Drugs.com)
+Diclofenac,Serious / Systemic,"Aseptic meningitis, hepatitis, blood dyscrasias, Stevens-Johnson syndrome",Very rare,PubMed (PubMed)
